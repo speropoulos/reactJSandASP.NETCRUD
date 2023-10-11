@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vvZqVOeFJfkgKSRvpdl3A73SRUDE6eT6qf7KlDGrt79VSSJcJmuiiWWYPXaVeTFsCVrnyyjd8VRHTg0+I4+uBQ==",
+  "dgSpecHash": "WCiDvvz0TpDkubJGDVd9gtRcZwSd6TgmHFEGfvf45QaqkeCP3JG8hxQH7mUI7OUjNfiyQZDcvDLWe4izcFKZ8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spero\\Development\\sample-crud-be\\sample-crud-be\\sample-crud-be.csproj",
+  "projectFilePath": "C:\\Users\\spero\\Documents\\GitHub\\reactJSandASP.NETCRUD\\backend\\sample-crud-be\\sample-crud-be.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spero\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\spero\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
